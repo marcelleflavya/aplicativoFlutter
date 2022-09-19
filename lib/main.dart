@@ -64,7 +64,7 @@ class _MyHomePageState extends State<MyHomePage> {
       //scaffold é o esqueleto da aplicação
       appBar: AppBar(
         //appBar é a barra superior
-        title: const Text('Meu aplicativo'),
+        title: const Text('Aplicativo Flutter'),
       ),
       body: Center(
         //center é referente ao texto está centralizado na tela, é filho do scaffold
